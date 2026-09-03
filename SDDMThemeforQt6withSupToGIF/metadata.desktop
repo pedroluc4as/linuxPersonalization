@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=GifIsa&Pedro
+Description=
+Author=Pedro Sperandio
+Copyright= 
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.gif
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=eliverlara@gmail.com
+Theme-Id=andromix-sddm-plasma-6
+Theme-API=2.0
+QtVersion=6
